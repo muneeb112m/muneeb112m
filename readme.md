@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm [Your Name], a passionate [Your Profession/Field] who loves to [Your Interests/Hobbies]. Welcome to my GitHub profile!
+Hi there! I'm [Your Name], a seasoned [Your Profession/Field] with a passion for [Your Interests/Hobbies]. With [Number] years of experience in [Your Field], I have a proven track record of delivering high-quality solutions and collaborating effectively in diverse teams.
 
 ## 🔧 Technologies & Skills
 
@@ -43,10 +43,6 @@ Occasionally, I share my thoughts and insights through articles and blog posts:
 - [Article Title](Link to Article): Brief description
 - [Article Title](Link to Article): Brief description
 - [Article Title](Link to Article): Brief description
-
-## 🐍 Snake Animation
-
-[![Snake Animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)](Link to your profile)
 
 ## 📫 Let's Connect
 
