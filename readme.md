@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is muneeb and I'm a student, from pakistan</p>
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
 
